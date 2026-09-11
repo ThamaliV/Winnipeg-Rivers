@@ -1,0 +1,12 @@
+site_id,site_name,river,river_order,lat,lon,match_pattern
+R1,Headingley Bridge,Assiniboine,1,49.866,-97.404,HEADING
+R2,West Perimeter Bridge,Assiniboine,2,49.868,-97.327,WEST\s*PERIMETER
+R3,Assiniboine Park Foot Bridge,Assiniboine,3,49.8753,-97.2361,ASSINIBOINE\s*PARK
+R4,Main Street Bridge,Assiniboine,4,49.8865,-97.1337,MAIN\s*STREET
+R5,South Floodway Control,Red,1,49.758,-97.140,FLOODWAY
+R6,South Perimeter Bridge,Red,2,49.779,-97.143,SOUTH\s*PERIMETER
+R7,Fort Garry Bridge,Red,3,49.832,-97.131,FORT\s*GARRY
+R8,Norwood Bridge,Red,4,49.8838,-97.1258,NORWOOD
+R9,Redwood Bridge,Red,5,49.9210,-97.1166,REDWOOD
+R10,North Perimeter Bridge,Red,6,49.978,-97.063,NORTH\s*PERIMETER
+R11,Lockport Bridge,Red,7,50.083,-96.935,LOCKPORT
